@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MedAI</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <div class="app">
+    <div class="hero">
+      <h1>Med AI Yordamchi</h1>
+      <p>Dori haqida ma’lumot oling, simptomni tekshiring, statistika ko‘ring va dori qabul qilishni nazorat qiling.</p>
+    </div>
+
+    <div class="tabs">
+      <button class="tab-btn active" onclick="showTab('drugTab', this)">💊 Dori</button>
+      <button class="tab-btn" onclick="showTab('symptomTab', this)">🩺 Simptom</button>
+      <button class="tab-btn" onclick="showTab('statsTab', this); loadStats()">📊 Statistika</button>
+      <button class="tab-btn" onclick="showTab('reminderTab', this)">⏰ Reminder</button>
+    </div>
+
+    <div id="drugTab" class="tab-content active">
+      <div class="card">
+        <h2>💊 Dori aniqlash</h2>
+        <label>Dori nomini yozing</label>
+        <textarea id="drug" placeholder="Masalan: mezim, paracetamol, panadol"></textarea>
+        <button class="primary-btn" onclick="findDrug()">Dori haqida ma’lumot</button>
+        <div id="drugResult"></div>
+      </div>
+    </div>
+
+    <div id="symptomTab" class="tab-content">
+      <div class="card">
+        <h2>🩺 Simptom tekshirish</h2>
+        <label>Shikoyatingizni yozing</label>
+        <textarea id="symptom" placeholder="Masalan: qulog'im og'riyapti"></textarea>
+        <button class="primary-btn" onclick="startAnalysis()">Tekshirishni boshlash</button>
+        <div id="questions"></div>
+        <div id="result"></div>
+      </div>
+    </div>
+
+    <div id="statsTab" class="tab-content">
+      <div class="card">
+        <h2>📊 Statistika</h2>
+        <div id="statsResult"></div>
+      </div>
+    </div>
+
+    <div id="reminderTab" class="tab-content">
+      <div class="card">
+        <h2>⏰ Dori eslatmasi</h2>
+        <label>Dori nomi</label>
+        <input id="med" placeholder="Masalan: mezim" />
+        <label>Vaqt</label>
+        <input id="time" type="time" />
+        <button class="primary-btn" onclick="addReminder()">Reminder qo‘shish</button>
+        <div id="reminderStatus"></div>
+      </div>
+    </div>
+
+    <div class="footer">@MedAIyordamchibot</div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

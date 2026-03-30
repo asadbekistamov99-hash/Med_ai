@@ -1,0 +1,157 @@
+{
+  "paracetamol": {
+    "name": "Paracetamol",
+    "active": "Paracetamol",
+    "forms": [
+      "tabletka",
+      "sirop"
+    ],
+    "category": "isitma tushiruvchi va og'riq qoldiruvchi",
+    "use": "Isitma va yengil og‘riqlarda ishlatiladi.",
+    "warning": "Dozani oshirmang.",
+    "doctor": "Terapevt",
+    "aliases": [
+      "paracetamol",
+      "panadol",
+      "trimol",
+      "turmol"
+    ]
+  },
+  "ibuprofen": {
+    "name": "Ibuprofen",
+    "active": "Ibuprofen",
+    "forms": [
+      "tabletka",
+      "sirop"
+    ],
+    "category": "yallig'lanishga qarshi va og'riq qoldiruvchi",
+    "use": "Isitma, bosh va tish og‘rig‘ida ishlatiladi.",
+    "warning": "Oshqozon kasalliklarida ehtiyot bo‘ling.",
+    "doctor": "Terapevt",
+    "aliases": [
+      "ibuprofen",
+      "nurofen"
+    ]
+  },
+  "mezim": {
+    "name": "Mezim",
+    "active": "Pancreatin",
+    "forms": [
+      "tabletka"
+    ],
+    "category": "hazm fermenti",
+    "use": "Ovqat hazm qilishni qo‘llab-quvvatlaydi.",
+    "warning": "Dozani oshirmang.",
+    "doctor": "Gastroenterolog",
+    "aliases": [
+      "mezim"
+    ]
+  },
+  "omeprazole": {
+    "name": "Omeprazole",
+    "active": "Omeprazole",
+    "forms": [
+      "kapsula"
+    ],
+    "category": "oshqozon uchun",
+    "use": "Oshqozon kislotasi ko‘paygan holatlarda ishlatiladi.",
+    "warning": "Shifokor tavsiyasi bilan qabul qiling.",
+    "doctor": "Gastroenterolog",
+    "aliases": [
+      "omeprazole",
+      "omez"
+    ]
+  },
+  "noshpa": {
+    "name": "No-shpa",
+    "active": "Drotaverin",
+    "forms": [
+      "tabletka"
+    ],
+    "category": "spazmga qarshi",
+    "use": "Qorin sanchig‘i va spazmda ishlatiladi.",
+    "warning": "Bosim past bo‘lsa ehtiyot bo‘ling.",
+    "doctor": "Terapevt",
+    "aliases": [
+      "noshpa",
+      "no-shpa",
+      "drotaverin"
+    ]
+  },
+  "loratadine": {
+    "name": "Loratadine",
+    "active": "Loratadine",
+    "forms": [
+      "tabletka"
+    ],
+    "category": "allergiyaga qarshi",
+    "use": "Allergik belgilarni kamaytirishda ishlatiladi.",
+    "warning": "Uyquchanlik bo‘lishi mumkin.",
+    "doctor": "Allergolog",
+    "aliases": [
+      "loratadine"
+    ]
+  },
+  "cetirizine": {
+    "name": "Cetirizine",
+    "active": "Cetirizine",
+    "forms": [
+      "tabletka"
+    ],
+    "category": "allergiyaga qarshi",
+    "use": "Allergik holatlarda ishlatiladi.",
+    "warning": "Uyquchanlik bo‘lishi mumkin.",
+    "doctor": "Allergolog",
+    "aliases": [
+      "cetirizine",
+      "zyrtec"
+    ]
+  },
+  "amoxicillin": {
+    "name": "Amoxicillin",
+    "active": "Amoxicillin",
+    "forms": [
+      "kapsula",
+      "suspenziya"
+    ],
+    "category": "antibiotik",
+    "use": "Ba'zi bakterial infeksiyalarda ishlatiladi.",
+    "warning": "Faqat shifokor tavsiyasi bilan qabul qiling.",
+    "doctor": "Terapevt",
+    "aliases": [
+      "amoxicillin",
+      "amoksitsillin"
+    ]
+  },
+  "ambroxol": {
+    "name": "Ambroxol",
+    "active": "Ambroxol",
+    "forms": [
+      "sirop",
+      "tabletka"
+    ],
+    "category": "balg'am ko'chiruvchi",
+    "use": "Yo‘tal va balg‘am ko‘chirishda ishlatiladi.",
+    "warning": "Ko‘p suyuqlik ichish tavsiya qilinadi.",
+    "doctor": "Terapevt",
+    "aliases": [
+      "ambroxol",
+      "lazolvan"
+    ]
+  },
+  "smecta": {
+    "name": "Smecta",
+    "active": "Diosmectite",
+    "forms": [
+      "poroshok"
+    ],
+    "category": "ich ketishga qarshi",
+    "use": "Ich ketish va oshqozon-ichak bezovtaligida ishlatiladi.",
+    "warning": "Ko‘p suyuqlik ichish tavsiya qilinadi.",
+    "doctor": "Terapevt",
+    "aliases": [
+      "smecta",
+      "smekta"
+    ]
+  }
+}

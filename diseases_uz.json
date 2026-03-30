@@ -1,0 +1,2480 @@
+{
+  "shamollash": {
+    "simple_name": "Shamollash",
+    "aliases": [
+      "shamolladim",
+      "tumov",
+      "sovuq qotdim",
+      "shamollash"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  },
+  "gripp": {
+    "simple_name": "Gripp",
+    "aliases": [
+      "gripp",
+      "isitma bilan shamollash",
+      "badanim uvishyapti"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  },
+  "covid": {
+    "simple_name": "COVID-19",
+    "aliases": [
+      "covid",
+      "korona",
+      "hid bilmayapman",
+      "tam bilmayapman"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  },
+  "bronxit": {
+    "simple_name": "Bronxit",
+    "aliases": [
+      "bronxit",
+      "qattiq yo'tal",
+      "balgamli yo'tal"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  },
+  "pnevmoniya": {
+    "simple_name": "Pnevmoniya",
+    "aliases": [
+      "pnevmoniya",
+      "opka yalliglanishi",
+      "nafasim qiyinlashyapti"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  },
+  "astma": {
+    "simple_name": "Bronxial astma",
+    "aliases": [
+      "astma",
+      "nafas qisishi",
+      "hansirash"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  },
+  "sinusit": {
+    "simple_name": "Sinusit",
+    "aliases": [
+      "sinusit",
+      "peshonam og'riyapti",
+      "burun bitib qoldi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "rinit": {
+    "simple_name": "Rinit",
+    "aliases": [
+      "rinit",
+      "burun oqyapti",
+      "burun bitgan"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "faringit": {
+    "simple_name": "Faringit",
+    "aliases": [
+      "faringit",
+      "tomoq qichishyapti",
+      "tomoq bezovta"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "laringit": {
+    "simple_name": "Laringit",
+    "aliases": [
+      "laringit",
+      "ovozim bogildi",
+      "ovozim chiqmayapti"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "tonzillit": {
+    "simple_name": "Tonzillit",
+    "aliases": [
+      "tonzillit",
+      "angina",
+      "bodomcha yalliglandi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "otit": {
+    "simple_name": "Otit",
+    "aliases": [
+      "otit",
+      "qulog'im og'riyapti",
+      "quloq ogrigi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "adenoid": {
+    "simple_name": "Adenoid",
+    "aliases": [
+      "adenoid",
+      "burnim bilan nafas ololmayapman",
+      "ogzim ochiq uxlayman"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Og‘riq kuchlimi?",
+      "Ajralma yoki bitish bormi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Dam oling",
+      "O‘zboshimchalik bilan dori ishlatmang"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Eshitish yoki nafas yomonlashsa",
+      "Yiring yoki qon chiqsa"
+    ],
+    "doctor": "LOR"
+  },
+  "konjunktivit": {
+    "simple_name": "Konyunktivit",
+    "aliases": [
+      "konyunktivit",
+      "kozim qizardi",
+      "kozim achishyapti"
+    ],
+    "questions": [
+      "Qizarish bormi?",
+      "Og‘riq yoki achishish bormi?",
+      "Ko‘rish xiralashganmi?",
+      "Ajralma bormi?"
+    ],
+    "home_advice": [
+      "Ko‘zni ishqalamaslikka harakat qiling",
+      "Gigiyenaga rioya qiling",
+      "Dam oling"
+    ],
+    "danger_signs": [
+      "Ko‘rish pasaysa",
+      "Kuchli og‘riq bo‘lsa",
+      "Yiring ko‘paysa"
+    ],
+    "doctor": "Oftalmolog"
+  },
+  "blefarit": {
+    "simple_name": "Blefarit",
+    "aliases": [
+      "blefarit",
+      "qovoqlarim qichishyapti",
+      "koz qovogi yalliglandi"
+    ],
+    "questions": [
+      "Qizarish bormi?",
+      "Og‘riq yoki achishish bormi?",
+      "Ko‘rish xiralashganmi?",
+      "Ajralma bormi?"
+    ],
+    "home_advice": [
+      "Ko‘zni ishqalamaslikka harakat qiling",
+      "Gigiyenaga rioya qiling",
+      "Dam oling"
+    ],
+    "danger_signs": [
+      "Ko‘rish pasaysa",
+      "Kuchli og‘riq bo‘lsa",
+      "Yiring ko‘paysa"
+    ],
+    "doctor": "Oftalmolog"
+  },
+  "quruq_koz": {
+    "simple_name": "Quruq ko'z sindromi",
+    "aliases": [
+      "kozim quriyapti",
+      "quruq koz",
+      "kozimda qumday"
+    ],
+    "questions": [
+      "Qizarish bormi?",
+      "Og‘riq yoki achishish bormi?",
+      "Ko‘rish xiralashganmi?",
+      "Ajralma bormi?"
+    ],
+    "home_advice": [
+      "Ko‘zni ishqalamaslikka harakat qiling",
+      "Gigiyenaga rioya qiling",
+      "Dam oling"
+    ],
+    "danger_signs": [
+      "Ko‘rish pasaysa",
+      "Kuchli og‘riq bo‘lsa",
+      "Yiring ko‘paysa"
+    ],
+    "doctor": "Oftalmolog"
+  },
+  "katarakta": {
+    "simple_name": "Katarakta",
+    "aliases": [
+      "katarakta",
+      "korishim xiralashdi"
+    ],
+    "questions": [
+      "Qizarish bormi?",
+      "Og‘riq yoki achishish bormi?",
+      "Ko‘rish xiralashganmi?",
+      "Ajralma bormi?"
+    ],
+    "home_advice": [
+      "Ko‘zni ishqalamaslikka harakat qiling",
+      "Gigiyenaga rioya qiling",
+      "Dam oling"
+    ],
+    "danger_signs": [
+      "Ko‘rish pasaysa",
+      "Kuchli og‘riq bo‘lsa",
+      "Yiring ko‘paysa"
+    ],
+    "doctor": "Oftalmolog"
+  },
+  "glaukoma": {
+    "simple_name": "Glaukoma",
+    "aliases": [
+      "glaukoma",
+      "kozim bosim bolyapti"
+    ],
+    "questions": [
+      "Qizarish bormi?",
+      "Og‘riq yoki achishish bormi?",
+      "Ko‘rish xiralashganmi?",
+      "Ajralma bormi?"
+    ],
+    "home_advice": [
+      "Ko‘zni ishqalamaslikka harakat qiling",
+      "Gigiyenaga rioya qiling",
+      "Dam oling"
+    ],
+    "danger_signs": [
+      "Ko‘rish pasaysa",
+      "Kuchli og‘riq bo‘lsa",
+      "Yiring ko‘paysa"
+    ],
+    "doctor": "Oftalmolog"
+  },
+  "migren": {
+    "simple_name": "Migren",
+    "aliases": [
+      "migren",
+      "boshim bir tomoni og'riyapti"
+    ],
+    "questions": [
+      "Qachondan beri bor?",
+      "Og‘riq yoki bosh aylanish kuchlimi?",
+      "Ko‘ngil aynishi bormi?",
+      "Stress bo‘lganmi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suv iching",
+      "Shovqin va yorug‘likdan saqlaning"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Ko‘rish buzilishi",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Nevropatolog"
+  },
+  "bosh_ogrigi": {
+    "simple_name": "Bosh og'rig'i",
+    "aliases": [
+      "boshim og'riyapti",
+      "bosh ogrigi"
+    ],
+    "questions": [
+      "Qachondan beri bor?",
+      "Og‘riq yoki bosh aylanish kuchlimi?",
+      "Ko‘ngil aynishi bormi?",
+      "Stress bo‘lganmi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suv iching",
+      "Shovqin va yorug‘likdan saqlaning"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Ko‘rish buzilishi",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Nevropatolog"
+  },
+  "bosh_aylanish": {
+    "simple_name": "Bosh aylanish",
+    "aliases": [
+      "boshim aylanayapti",
+      "bosh aylanish"
+    ],
+    "questions": [
+      "Qachondan beri bor?",
+      "Og‘riq yoki bosh aylanish kuchlimi?",
+      "Ko‘ngil aynishi bormi?",
+      "Stress bo‘lganmi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suv iching",
+      "Shovqin va yorug‘likdan saqlaning"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Ko‘rish buzilishi",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Nevropatolog"
+  },
+  "uyqusizlik": {
+    "simple_name": "Uyqusizlik",
+    "aliases": [
+      "uxlay olmayapman",
+      "uyqusizlik"
+    ],
+    "questions": [
+      "Qachondan beri bor?",
+      "Og‘riq yoki bosh aylanish kuchlimi?",
+      "Ko‘ngil aynishi bormi?",
+      "Stress bo‘lganmi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suv iching",
+      "Shovqin va yorug‘likdan saqlaning"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Ko‘rish buzilishi",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Nevropatolog"
+  },
+  "nevralgiya": {
+    "simple_name": "Nevralgiya",
+    "aliases": [
+      "nevralgiya",
+      "asab ogrigi"
+    ],
+    "questions": [
+      "Qachondan beri bor?",
+      "Og‘riq yoki bosh aylanish kuchlimi?",
+      "Ko‘ngil aynishi bormi?",
+      "Stress bo‘lganmi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suv iching",
+      "Shovqin va yorug‘likdan saqlaning"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Ko‘rish buzilishi",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Nevropatolog"
+  },
+  "depressiya": {
+    "simple_name": "Depressiv holat",
+    "aliases": [
+      "depressiya",
+      "kayfiyatim tushkun"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Uyqu buzilganmi?",
+      "Ishtaha o‘zgarganmi?",
+      "Kundalik ishlarga halal berayaptimi?"
+    ],
+    "home_advice": [
+      "Dam olishga vaqt ajrating",
+      "Yaqinlaringiz bilan gaplashing",
+      "Mutaxassisga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat kuchaysa",
+      "Hushdan ketish bo‘lsa",
+      "Zudlik bilan kattalardan yordam so‘rang"
+    ],
+    "doctor": "Psixolog yoki psixiatr"
+  },
+  "stress": {
+    "simple_name": "Stress holati",
+    "aliases": [
+      "stress",
+      "asabiylashyapman",
+      "juda siqilyapman"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Uyqu buzilganmi?",
+      "Ishtaha o‘zgarganmi?",
+      "Kundalik ishlarga halal berayaptimi?"
+    ],
+    "home_advice": [
+      "Dam olishga vaqt ajrating",
+      "Yaqinlaringiz bilan gaplashing",
+      "Mutaxassisga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat kuchaysa",
+      "Hushdan ketish bo‘lsa",
+      "Zudlik bilan kattalardan yordam so‘rang"
+    ],
+    "doctor": "Psixolog yoki psixiatr"
+  },
+  "vahima": {
+    "simple_name": "Vahima xuruji",
+    "aliases": [
+      "vahima",
+      "panika",
+      "yuragim tez uryapti qorqyapman"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Uyqu buzilganmi?",
+      "Ishtaha o‘zgarganmi?",
+      "Kundalik ishlarga halal berayaptimi?"
+    ],
+    "home_advice": [
+      "Dam olishga vaqt ajrating",
+      "Yaqinlaringiz bilan gaplashing",
+      "Mutaxassisga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat kuchaysa",
+      "Hushdan ketish bo‘lsa",
+      "Zudlik bilan kattalardan yordam so‘rang"
+    ],
+    "doctor": "Psixolog yoki psixiatr"
+  },
+  "gipertoniya": {
+    "simple_name": "Gipertoniya",
+    "aliases": [
+      "bosimim baland",
+      "gipertoniya",
+      "qon bosimim baland"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "gipotoniya": {
+    "simple_name": "Gipotoniya",
+    "aliases": [
+      "bosimim past",
+      "gipotoniya",
+      "boshim aylanib ketdi"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "aritmiya": {
+    "simple_name": "Aritmiya",
+    "aliases": [
+      "aritmiya",
+      "yuragim notekis uryapti"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "taxikardiya": {
+    "simple_name": "Taxikardiya",
+    "aliases": [
+      "yuragim tez uryapti",
+      "taxikardiya"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "kokrak_ogrigi": {
+    "simple_name": "Ko'krak og'rig'i",
+    "aliases": [
+      "yuragim sanchiyapti",
+      "ko'kragim og'riyapti",
+      "chap ko'kragim og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "stenokardiya": {
+    "simple_name": "Stenokardiya",
+    "aliases": [
+      "stenokardiya",
+      "yurganda ko'kragim og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "yurak_yetishmovchiligi": {
+    "simple_name": "Yurak yetishmovchiligi",
+    "aliases": [
+      "tez charchayapman nafasim qisadi",
+      "oyoqlarim shishyapti"
+    ],
+    "questions": [
+      "Og‘riq yoki bezovtalik qachondan beri bor?",
+      "Nafas qisishi bormi?",
+      "Yurak urishi tezlashganmi?",
+      "Bosimni o‘lchadingizmi?"
+    ],
+    "home_advice": [
+      "Jismoniy zo‘riqishni to‘xtating",
+      "Tinch holatda dam oling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Ko‘krak og‘rig‘i kuchaysa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq qo‘l yoki jag‘ga tarqalsa"
+    ],
+    "doctor": "Kardiolog"
+  },
+  "gastrit": {
+    "simple_name": "Gastrit",
+    "aliases": [
+      "gastrit",
+      "oshqozonim og'riyapti",
+      "oshqozon achishyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "refluks": {
+    "simple_name": "Refluks",
+    "aliases": [
+      "refluks",
+      "ogzimga nordon keladi",
+      "ko'kragim kuyyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "yara": {
+    "simple_name": "Oshqozon yarasi",
+    "aliases": [
+      "oshqozon yarasi",
+      "yara",
+      "och qoringa ogrik"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "kolit": {
+    "simple_name": "Kolit",
+    "aliases": [
+      "kolit",
+      "ichagim og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "enterit": {
+    "simple_name": "Enterit",
+    "aliases": [
+      "enterit",
+      "ichak yalliglanishi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "ich_ketish": {
+    "simple_name": "Ich ketish",
+    "aliases": [
+      "ich ketyapti",
+      "diareya",
+      "suyuq najas"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "qabziyat": {
+    "simple_name": "Qabziyat",
+    "aliases": [
+      "ich qotyapti",
+      "qabziyat",
+      "hojatga chiqa olmayapman"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "meteorizm": {
+    "simple_name": "Meteorizm",
+    "aliases": [
+      "qornim dam bolyapti",
+      "gaz yigildi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "pankreatit": {
+    "simple_name": "Pankreatit",
+    "aliases": [
+      "pankreatit",
+      "chap qorinim og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "xolesistit": {
+    "simple_name": "Xolesistit",
+    "aliases": [
+      "xolesistit",
+      "ong qovurgam osti og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "gepatit": {
+    "simple_name": "Gepatit",
+    "aliases": [
+      "gepatit",
+      "kozim sargaydi",
+      "terim sargaydi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "gemorroy": {
+    "simple_name": "Gemorroy",
+    "aliases": [
+      "gemorroy",
+      "orqa chiqaruv teshigim og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Ko‘ngil aynishi yoki qusish bormi?",
+      "Ich ketish yoki qabziyat bormi?",
+      "Ovqatdan keyin kuchayadimi?"
+    ],
+    "home_advice": [
+      "Yengil ovqat iste’mol qiling",
+      "Ko‘proq suyuqlik iching",
+      "Achchiq va yog‘li ovqatdan saqlaning"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qonli qusish yoki najas bo‘lsa",
+      "Suvsizlanish belgilari bo‘lsa"
+    ],
+    "doctor": "Gastroenterolog yoki terapevt"
+  },
+  "appenditsit": {
+    "simple_name": "Appenditsit",
+    "aliases": [
+      "appenditsit",
+      "ong past qornim og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Qachondan beri bor?",
+      "Isitma bormi?",
+      "Harakatda kuchayadimi?"
+    ],
+    "home_advice": [
+      "Tinch holatda bo‘ling",
+      "Og‘riq kuchaysa shifokorga boring",
+      "O‘zboshimchalik bilan dori ichmang"
+    ],
+    "danger_signs": [
+      "Og‘riq juda kuchaysa",
+      "Qusish bo‘lsa",
+      "Holat yomonlashsa"
+    ],
+    "doctor": "Jarroh"
+  },
+  "buyrak_toshi": {
+    "simple_name": "Buyrak toshi",
+    "aliases": [
+      "buyragim sanchyapti",
+      "yonboshim og'riyapti"
+    ],
+    "questions": [
+      "Siyganda achishish bormi?",
+      "Bel yoki yonbosh og‘rig‘i bormi?",
+      "Isitma bormi?",
+      "Tez-tez siygiz keladimi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suv iching",
+      "Sovuqdan saqlaning",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qon kelsa",
+      "Og‘riq kuchaysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Urolog"
+  },
+  "sistit": {
+    "simple_name": "Sistit",
+    "aliases": [
+      "siyganda achishadi",
+      "tez-tez siygim keladi"
+    ],
+    "questions": [
+      "Siyganda achishish bormi?",
+      "Bel yoki yonbosh og‘rig‘i bormi?",
+      "Isitma bormi?",
+      "Tez-tez siygiz keladimi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suv iching",
+      "Sovuqdan saqlaning",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qon kelsa",
+      "Og‘riq kuchaysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Urolog"
+  },
+  "pielonefrit": {
+    "simple_name": "Pielonefrit",
+    "aliases": [
+      "belim og'riyapti isitmam bor",
+      "buyrak yalliglanishi"
+    ],
+    "questions": [
+      "Siyganda achishish bormi?",
+      "Bel yoki yonbosh og‘rig‘i bormi?",
+      "Isitma bormi?",
+      "Tez-tez siygiz keladimi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suv iching",
+      "Sovuqdan saqlaning",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qon kelsa",
+      "Og‘riq kuchaysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Urolog"
+  },
+  "prostatit": {
+    "simple_name": "Prostatit",
+    "aliases": [
+      "prostatit",
+      "pastim og'riyapti"
+    ],
+    "questions": [
+      "Siyganda achishish bormi?",
+      "Bel yoki yonbosh og‘rig‘i bormi?",
+      "Isitma bormi?",
+      "Tez-tez siygiz keladimi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suv iching",
+      "Sovuqdan saqlaning",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qon kelsa",
+      "Og‘riq kuchaysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Urolog"
+  },
+  "erektil_disfunktsiya": {
+    "simple_name": "Erektil disfunktsiya",
+    "aliases": [
+      "erektsiya muammo",
+      "jinsiy quvvat pasaygan"
+    ],
+    "questions": [
+      "Siyganda achishish bormi?",
+      "Bel yoki yonbosh og‘rig‘i bormi?",
+      "Isitma bormi?",
+      "Tez-tez siygiz keladimi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suv iching",
+      "Sovuqdan saqlaning",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qon kelsa",
+      "Og‘riq kuchaysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Urolog"
+  },
+  "karies": {
+    "simple_name": "Karies",
+    "aliases": [
+      "tishim og'riyapti",
+      "karies"
+    ],
+    "questions": [
+      "Og‘riq qachondan beri bor?",
+      "Issiq yoki sovuqda kuchayadimi?",
+      "Milk qonaydimi?",
+      "Shish bormi?"
+    ],
+    "home_advice": [
+      "Og‘iz gigiyenasiga rioya qiling",
+      "Juda issiq-sovuq ovqat yemang",
+      "Stomatologga boring"
+    ],
+    "danger_signs": [
+      "Yuz shishsa",
+      "Og‘riq kuchaysa",
+      "Isitma bo‘lsa"
+    ],
+    "doctor": "Stomatolog"
+  },
+  "pulpit": {
+    "simple_name": "Pulpit",
+    "aliases": [
+      "pulpit",
+      "tishim qattiq og'riyapti"
+    ],
+    "questions": [
+      "Og‘riq qachondan beri bor?",
+      "Issiq yoki sovuqda kuchayadimi?",
+      "Milk qonaydimi?",
+      "Shish bormi?"
+    ],
+    "home_advice": [
+      "Og‘iz gigiyenasiga rioya qiling",
+      "Juda issiq-sovuq ovqat yemang",
+      "Stomatologga boring"
+    ],
+    "danger_signs": [
+      "Yuz shishsa",
+      "Og‘riq kuchaysa",
+      "Isitma bo‘lsa"
+    ],
+    "doctor": "Stomatolog"
+  },
+  "gingivit": {
+    "simple_name": "Gingivit",
+    "aliases": [
+      "milk qonayapti",
+      "milk yalliglangan"
+    ],
+    "questions": [
+      "Og‘riq qachondan beri bor?",
+      "Issiq yoki sovuqda kuchayadimi?",
+      "Milk qonaydimi?",
+      "Shish bormi?"
+    ],
+    "home_advice": [
+      "Og‘iz gigiyenasiga rioya qiling",
+      "Juda issiq-sovuq ovqat yemang",
+      "Stomatologga boring"
+    ],
+    "danger_signs": [
+      "Yuz shishsa",
+      "Og‘riq kuchaysa",
+      "Isitma bo‘lsa"
+    ],
+    "doctor": "Stomatolog"
+  },
+  "stomatit": {
+    "simple_name": "Stomatit",
+    "aliases": [
+      "ogzimda yara chiqdi",
+      "stomatit"
+    ],
+    "questions": [
+      "Og‘riq qachondan beri bor?",
+      "Issiq yoki sovuqda kuchayadimi?",
+      "Milk qonaydimi?",
+      "Shish bormi?"
+    ],
+    "home_advice": [
+      "Og‘iz gigiyenasiga rioya qiling",
+      "Juda issiq-sovuq ovqat yemang",
+      "Stomatologga boring"
+    ],
+    "danger_signs": [
+      "Yuz shishsa",
+      "Og‘riq kuchaysa",
+      "Isitma bo‘lsa"
+    ],
+    "doctor": "Stomatolog"
+  },
+  "periodontit": {
+    "simple_name": "Periodontit",
+    "aliases": [
+      "tish tagi og'riyapti",
+      "periodontit"
+    ],
+    "questions": [
+      "Og‘riq qachondan beri bor?",
+      "Issiq yoki sovuqda kuchayadimi?",
+      "Milk qonaydimi?",
+      "Shish bormi?"
+    ],
+    "home_advice": [
+      "Og‘iz gigiyenasiga rioya qiling",
+      "Juda issiq-sovuq ovqat yemang",
+      "Stomatologga boring"
+    ],
+    "danger_signs": [
+      "Yuz shishsa",
+      "Og‘riq kuchaysa",
+      "Isitma bo‘lsa"
+    ],
+    "doctor": "Stomatolog"
+  },
+  "artrit": {
+    "simple_name": "Artrit",
+    "aliases": [
+      "bogimim og'riyapti",
+      "artrit"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "artroz": {
+    "simple_name": "Artroz",
+    "aliases": [
+      "tizzam g'ichirlaydi",
+      "artroz"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "osteoxondroz": {
+    "simple_name": "Osteoxondroz",
+    "aliases": [
+      "boynim og'riyapti",
+      "osteoxondroz"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "skolioz": {
+    "simple_name": "Skolioz",
+    "aliases": [
+      "qomatim qiyshaygan",
+      "skolioz"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "bel_ogrigi": {
+    "simple_name": "Bel og'rig'i",
+    "aliases": [
+      "belim og'riyapti",
+      "bel ogrigi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "boyin_ogrigi": {
+    "simple_name": "Bo'yin og'rig'i",
+    "aliases": [
+      "boynim og'riyapti",
+      "boyin ogrigi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "tizza_ogrigi": {
+    "simple_name": "Tizza og'rig'i",
+    "aliases": [
+      "tizzam og'riyapti",
+      "tizza ogrigi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "oyoq_ogrigi": {
+    "simple_name": "Oyoq og'rig'i",
+    "aliases": [
+      "oyog'im og'riyapti",
+      "oyoq ogrigi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "qol_ogrigi": {
+    "simple_name": "Qo'l og'rig'i",
+    "aliases": [
+      "qolim og'riyapti",
+      "qol ogrigi"
+    ],
+    "questions": [
+      "Og‘riq qayerda?",
+      "Harakatda kuchayadimi?",
+      "Shish bormi?",
+      "Qachondan beri bor?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Og‘ir yuk ko‘tarmang",
+      "Og‘riq kuchaysa shifokorga boring"
+    ],
+    "danger_signs": [
+      "Harakat qiyinlashsa",
+      "Shish kuchaysa",
+      "Uyushish bo‘lsa"
+    ],
+    "doctor": "Ortoped yoki nevropatolog"
+  },
+  "suyak_sinish": {
+    "simple_name": "Suyak sinishi",
+    "aliases": [
+      "suyagim sindi",
+      "qolim sindi",
+      "oyogim sindi"
+    ],
+    "questions": [
+      "Jarohat qachon bo‘ldi?",
+      "Shish yoki qizarish bormi?",
+      "Harakat qila olasizmi?",
+      "Og‘riq kuchlimi?"
+    ],
+    "home_advice": [
+      "Jarohat joyini tinch tuting",
+      "Sovuq kompress qo‘ying",
+      "Travmatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qattiq og‘riq bo‘lsa",
+      "Harakat umuman bo‘lmasa",
+      "Shakli o‘zgargan bo‘lsa"
+    ],
+    "doctor": "Travmatolog"
+  },
+  "chiqish": {
+    "simple_name": "Chiqish",
+    "aliases": [
+      "chiqib ketdi",
+      "bogim chiqdi"
+    ],
+    "questions": [
+      "Jarohat qachon bo‘ldi?",
+      "Shish yoki qizarish bormi?",
+      "Harakat qila olasizmi?",
+      "Og‘riq kuchlimi?"
+    ],
+    "home_advice": [
+      "Jarohat joyini tinch tuting",
+      "Sovuq kompress qo‘ying",
+      "Travmatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qattiq og‘riq bo‘lsa",
+      "Harakat umuman bo‘lmasa",
+      "Shakli o‘zgargan bo‘lsa"
+    ],
+    "doctor": "Travmatolog"
+  },
+  "burilish": {
+    "simple_name": "Cho'zilish yoki burilish",
+    "aliases": [
+      "oyogim qayrildi",
+      "pay chozildi"
+    ],
+    "questions": [
+      "Jarohat qachon bo‘ldi?",
+      "Shish yoki qizarish bormi?",
+      "Harakat qila olasizmi?",
+      "Og‘riq kuchlimi?"
+    ],
+    "home_advice": [
+      "Jarohat joyini tinch tuting",
+      "Sovuq kompress qo‘ying",
+      "Travmatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Qattiq og‘riq bo‘lsa",
+      "Harakat umuman bo‘lmasa",
+      "Shakli o‘zgargan bo‘lsa"
+    ],
+    "doctor": "Travmatolog"
+  },
+  "allergiya": {
+    "simple_name": "Allergiya",
+    "aliases": [
+      "allergiya",
+      "toshma chiqdi",
+      "qichishyapti"
+    ],
+    "questions": [
+      "Qichishish bormi?",
+      "Toshma bormi?",
+      "Nafas qisishi bormi?",
+      "Nimadan keyin boshlandi?"
+    ],
+    "home_advice": [
+      "Allergen bo‘lishi mumkin bo‘lgan narsadan uzoqlashing",
+      "Xonani shamollating",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Nafas qisishi bo‘lsa",
+      "Yuz yoki tomoq shishsa",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Allergolog"
+  },
+  "urtikariya": {
+    "simple_name": "Eshakemi",
+    "aliases": [
+      "urtikariya",
+      "eshakemi",
+      "badanimda qizil toshma"
+    ],
+    "questions": [
+      "Qichishish bormi?",
+      "Toshma bormi?",
+      "Nafas qisishi bormi?",
+      "Nimadan keyin boshlandi?"
+    ],
+    "home_advice": [
+      "Allergen bo‘lishi mumkin bo‘lgan narsadan uzoqlashing",
+      "Xonani shamollating",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Nafas qisishi bo‘lsa",
+      "Yuz yoki tomoq shishsa",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Allergolog"
+  },
+  "dermatit": {
+    "simple_name": "Dermatit",
+    "aliases": [
+      "dermatit",
+      "terim qichishyapti"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "ekzema": {
+    "simple_name": "Ekzema",
+    "aliases": [
+      "ekzema",
+      "terim qurib qichishyapti"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "psoriaz": {
+    "simple_name": "Psoriaz",
+    "aliases": [
+      "psoriaz",
+      "terim qipiqlanyapti"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "akne": {
+    "simple_name": "Akne",
+    "aliases": [
+      "yuzimga husnbuzar chiqdi",
+      "akne"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "furunkul": {
+    "simple_name": "Furunkul",
+    "aliases": [
+      "chipqon chiqdi",
+      "furunkul"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "temiratki": {
+    "simple_name": "Temiratki",
+    "aliases": [
+      "temiratki",
+      "zamburug tushdi"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "anemiya": {
+    "simple_name": "Anemiya",
+    "aliases": [
+      "gemoglobin past",
+      "anemiya",
+      "tez charchayman"
+    ],
+    "questions": [
+      "Tez charchaysizmi?",
+      "Boshingiz aylanadimi?",
+      "Rang oqarib ketganmi?",
+      "Nafas qisishi bormi?"
+    ],
+    "home_advice": [
+      "Tahlil topshiring",
+      "Temirga boy ovqat iste’mol qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holsizlik kuchaysa",
+      "Hushdan ketish bo‘lsa",
+      "Nafas qisishi bo‘lsa"
+    ],
+    "doctor": "Terapevt yoki gematolog"
+  },
+  "avitaminoz": {
+    "simple_name": "Avitaminoz",
+    "aliases": [
+      "vitamin yetishmayapti",
+      "avitaminoz"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Belgilar kuchlimi?",
+      "Isitma bormi?",
+      "Boshqa belgilar bormi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suyuqlik iching",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Holat keskin yomonlashsa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq kuchaysa"
+    ],
+    "doctor": "Terapevt"
+  },
+  "semizlik": {
+    "simple_name": "Semizlik",
+    "aliases": [
+      "semirib ketdim",
+      "semizlik"
+    ],
+    "questions": [
+      "Vazn o‘zgardimi?",
+      "Chanqash ko‘payganmi?",
+      "Holsizlik bormi?",
+      "Ishtaha o‘zgarganmi?"
+    ],
+    "home_advice": [
+      "Ovqatlanishni nazorat qiling",
+      "Tahlil topshiring",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Kuchli holsizlik",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Endokrinolog"
+  },
+  "ozinlik": {
+    "simple_name": "Ozinlik",
+    "aliases": [
+      "juda ozib ketdim",
+      "ozginman"
+    ],
+    "questions": [
+      "Vazn o‘zgardimi?",
+      "Chanqash ko‘payganmi?",
+      "Holsizlik bormi?",
+      "Ishtaha o‘zgarganmi?"
+    ],
+    "home_advice": [
+      "Ovqatlanishni nazorat qiling",
+      "Tahlil topshiring",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Kuchli holsizlik",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Endokrinolog"
+  },
+  "qandli_diabet": {
+    "simple_name": "Qandli diabet",
+    "aliases": [
+      "diabet",
+      "qandim bor",
+      "qon shakarim baland"
+    ],
+    "questions": [
+      "Vazn o‘zgardimi?",
+      "Chanqash ko‘payganmi?",
+      "Holsizlik bormi?",
+      "Ishtaha o‘zgarganmi?"
+    ],
+    "home_advice": [
+      "Ovqatlanishni nazorat qiling",
+      "Tahlil topshiring",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Kuchli holsizlik",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Endokrinolog"
+  },
+  "gipotireoz": {
+    "simple_name": "Gipotireoz",
+    "aliases": [
+      "gipotireoz",
+      "qalqonsimon bez sust"
+    ],
+    "questions": [
+      "Vazn o‘zgardimi?",
+      "Chanqash ko‘payganmi?",
+      "Holsizlik bormi?",
+      "Ishtaha o‘zgarganmi?"
+    ],
+    "home_advice": [
+      "Ovqatlanishni nazorat qiling",
+      "Tahlil topshiring",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Kuchli holsizlik",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Endokrinolog"
+  },
+  "gipertireoz": {
+    "simple_name": "Gipertireoz",
+    "aliases": [
+      "gipertireoz",
+      "qalqonsimon bez tez ishlayapti"
+    ],
+    "questions": [
+      "Vazn o‘zgardimi?",
+      "Chanqash ko‘payganmi?",
+      "Holsizlik bormi?",
+      "Ishtaha o‘zgarganmi?"
+    ],
+    "home_advice": [
+      "Ovqatlanishni nazorat qiling",
+      "Tahlil topshiring",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Hushdan ketish",
+      "Kuchli holsizlik",
+      "Holat tez yomonlashsa"
+    ],
+    "doctor": "Endokrinolog"
+  },
+  "hayz_ogrigi": {
+    "simple_name": "Hayz og'rig'i",
+    "aliases": [
+      "hayzda qornim og'riyapti",
+      "hayz ogrigi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Og‘riq yoki ajralma bormi?",
+      "Isitma bormi?",
+      "Holat kuchayaptimi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Gigiyenaga rioya qiling",
+      "Ginekologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qon ketish ko‘paysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Ginekolog"
+  },
+  "tsistit_ayol": {
+    "simple_name": "Ayollarda sistit",
+    "aliases": [
+      "ayolman siyganda achishadi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Og‘riq yoki ajralma bormi?",
+      "Isitma bormi?",
+      "Holat kuchayaptimi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Gigiyenaga rioya qiling",
+      "Ginekologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qon ketish ko‘paysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Ginekolog"
+  },
+  "vaginit": {
+    "simple_name": "Vaginit",
+    "aliases": [
+      "vaginit",
+      "ajralma kopaydi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Og‘riq yoki ajralma bormi?",
+      "Isitma bormi?",
+      "Holat kuchayaptimi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Gigiyenaga rioya qiling",
+      "Ginekologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qon ketish ko‘paysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Ginekolog"
+  },
+  "kandidoz": {
+    "simple_name": "Kandidoz",
+    "aliases": [
+      "kandidoz",
+      "molochnitsa"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Og‘riq yoki ajralma bormi?",
+      "Isitma bormi?",
+      "Holat kuchayaptimi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Gigiyenaga rioya qiling",
+      "Ginekologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qon ketish ko‘paysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Ginekolog"
+  },
+  "homiladorlik_toksikozi": {
+    "simple_name": "Homiladorlik toksikozi",
+    "aliases": [
+      "homiladorman konglim ayniyapti"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Og‘riq yoki ajralma bormi?",
+      "Isitma bormi?",
+      "Holat kuchayaptimi?"
+    ],
+    "home_advice": [
+      "Sovuqdan saqlaning",
+      "Gigiyenaga rioya qiling",
+      "Ginekologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Og‘riq kuchaysa",
+      "Qon ketish ko‘paysa",
+      "Isitma ko‘tarilsa"
+    ],
+    "doctor": "Ginekolog"
+  },
+  "gijja": {
+    "simple_name": "Gijja",
+    "aliases": [
+      "gijja",
+      "parazit",
+      "qornimda gijja bor"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "ovqatdan_zaharlanish": {
+    "simple_name": "Ovqatdan zaharlanish",
+    "aliases": [
+      "zaharlanish",
+      "ovqatdan zaharlandim"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "salmonellyoz": {
+    "simple_name": "Salmonellyoz",
+    "aliases": [
+      "salmonellyoz"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "dizenteriya": {
+    "simple_name": "Dizenteriya",
+    "aliases": [
+      "dizenteriya",
+      "qonli ich ketish"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "suvchechak": {
+    "simple_name": "Suvchechak",
+    "aliases": [
+      "suvchechak"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "qizamiq": {
+    "simple_name": "Qizamiq",
+    "aliases": [
+      "qizamiq"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "qizilcha": {
+    "simple_name": "Qizilcha",
+    "aliases": [
+      "qizilcha"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "parotit": {
+    "simple_name": "Parotit",
+    "aliases": [
+      "svinka",
+      "parotit",
+      "quloq oldim shishdi"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Isitma bormi?",
+      "Ich ketish yoki qusish bormi?",
+      "Boshqalarda ham shu holat bormi?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Gigiyenaga rioya qiling",
+      "Shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Holat yomonlashsa",
+      "Suvsizlanish bo‘lsa",
+      "Qonli najas bo‘lsa"
+    ],
+    "doctor": "Infeksionist yoki terapevt"
+  },
+  "gerpes": {
+    "simple_name": "Gerpes",
+    "aliases": [
+      "gerpes",
+      "labimga pufakcha chiqdi"
+    ],
+    "questions": [
+      "Toshma yoki qizarish bormi?",
+      "Qichishish bormi?",
+      "Qachondan beri bor?",
+      "Tarqalayaptimi?"
+    ],
+    "home_advice": [
+      "Terni toza tuting",
+      "Qashimaslikka harakat qiling",
+      "Dermatologga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Toshma tez tarqalsa",
+      "Yiring chiqsa",
+      "Isitma qo‘shilsa"
+    ],
+    "doctor": "Dermatolog"
+  },
+  "isitma": {
+    "simple_name": "Isitma",
+    "aliases": [
+      "isitmam bor",
+      "isitma"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Belgilar kuchlimi?",
+      "Isitma bormi?",
+      "Boshqa belgilar bormi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suyuqlik iching",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Holat keskin yomonlashsa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq kuchaysa"
+    ],
+    "doctor": "Terapevt"
+  },
+  "holsizlik": {
+    "simple_name": "Holsizlik",
+    "aliases": [
+      "holsizman",
+      "quvvatim yoq"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Belgilar kuchlimi?",
+      "Isitma bormi?",
+      "Boshqa belgilar bormi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suyuqlik iching",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Holat keskin yomonlashsa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq kuchaysa"
+    ],
+    "doctor": "Terapevt"
+  },
+  "kongil_aynish": {
+    "simple_name": "Ko'ngil aynishi",
+    "aliases": [
+      "konglim ayniyapti",
+      "kongil aynish"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Belgilar kuchlimi?",
+      "Isitma bormi?",
+      "Boshqa belgilar bormi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suyuqlik iching",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Holat keskin yomonlashsa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq kuchaysa"
+    ],
+    "doctor": "Terapevt"
+  },
+  "qusish": {
+    "simple_name": "Qusish",
+    "aliases": [
+      "qusayapman",
+      "qusish"
+    ],
+    "questions": [
+      "Qachondan beri davom etyapti?",
+      "Belgilar kuchlimi?",
+      "Isitma bormi?",
+      "Boshqa belgilar bormi?"
+    ],
+    "home_advice": [
+      "Dam oling",
+      "Ko‘proq suyuqlik iching",
+      "Holatni kuzating"
+    ],
+    "danger_signs": [
+      "Holat keskin yomonlashsa",
+      "Nafas qisishi bo‘lsa",
+      "Og‘riq kuchaysa"
+    ],
+    "doctor": "Terapevt"
+  },
+  "yotal": {
+    "simple_name": "Yo'tal",
+    "aliases": [
+      "yotalyapman",
+      "yotal"
+    ],
+    "questions": [
+      "Isitma bormi?",
+      "Yo‘tal quruqmi yoki balg‘amlimi?",
+      "Nafas qisishi bormi?",
+      "Qachondan beri davom etyapti?"
+    ],
+    "home_advice": [
+      "Ko‘proq suyuqlik iching",
+      "Dam oling",
+      "Holat kuchaysa shifokorga murojaat qiling"
+    ],
+    "danger_signs": [
+      "Nafas qiyinlashsa",
+      "Isitma tushmasa",
+      "Holat keskin yomonlashsa"
+    ],
+    "doctor": "Terapevt yoki pulmonolog"
+  }
+}
